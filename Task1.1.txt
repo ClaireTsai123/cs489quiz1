@@ -1,0 +1,7 @@
+Task1.1
+User:
+User can search contacts
+User can add contacts
+User can update contact
+User can delete old contacts
+User can merge duplicate contacts
